@@ -1,5 +1,6 @@
 @import url(style/header.css);
-
+@import url(style/banner.css);
+@import url(style/carrossel.css);
 :root{
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
@@ -10,13 +11,14 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    box-sizing: border-box;       
 }
 
 body{
     background-color: var(--cor-de-fundo);
 }
 
-body{
-    background-color: var(--cor-de-fundo);
-}
+
+
+
+
